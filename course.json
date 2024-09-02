@@ -13,6 +13,6 @@
   },
   "description": "Dagger in Practice",
   "keywords": ["your", "Google", "keywords", "here"],
-  "productionBaseUrl": "/novo-nordisk-dagger-in-practice",
+  "productionBaseUrl": "/dagger-in-practice",
   "csvPath": "./out/lessons.csv"
 }
