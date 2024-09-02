@@ -1,3 +1,7 @@
+> This contains a standalone course for Novo Nordisk on using the Dagger framework in practice and setting up a GitHub workflow running Dagger.
+> 
+> Course Website Starter Template by Brian Holt.
+
 <h1 align="center">Course Website Starter Template</h1> <br>
 
 <p align="center">

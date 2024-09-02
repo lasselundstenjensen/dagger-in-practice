@@ -69,6 +69,7 @@ a {
 }
 
 .navbar-info {
+  color: #f0f6fc;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -175,6 +176,7 @@ header .cta-btn {
 
 .jumbotron .courseIcon img {
   max-width: 180px;
+  min-width: 350px; /* Add to make image bigger and fix scaling when in smaller windows specifically for ITU svg */
 }
 
 .author .info {
@@ -350,16 +352,22 @@ blockquote > *:last-child {
 .lesson-title {
   font-size: 20px;
   padding: 15px 30px;
+  color: white;
 }
 
 .lesson-content {
   line-height: 1.5;
+  color: white;
 }
 
 .lesson-text {
   width: 100%;
   padding: 25px 5px 25px 35px;
   min-height: 200px;
+}
+
+.lesson-text ol {
+  color: white;
 }
 
 .sections-name {
@@ -505,7 +513,7 @@ ol.sections-name .lesson-details {
 }
 
 .lesson-links a:hover {
-  background: #152837;
+  background: #e6e6e6;
   text-decoration: none;
 }
 
@@ -523,7 +531,7 @@ pre code {
 code,
 pre code,
 pre code.hljs {
-  background-color: var(--emphasized-bg);
+  background-color: white;
   color: #000;
 }
 
