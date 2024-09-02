@@ -100,7 +100,7 @@ Hello, World!
 
 ## Dagger
 
-The easiest way to install Dagger is to use Homebrew.
+The easiest way to install Dagger is to use **Homebrew**. Alternatively, see the [official installation guide](https://docs.dagger.io/install/).
 
 Run the following command:
 
@@ -124,6 +124,10 @@ You should see an output something along:
 ```text
 dagger v0.12.5 (registry.dagger.io/engine:v0.12.5) darwin/arm64
 ```
+
+</br>
+
+You are now ready to start using Dagger!
 
 </br>
 </br>
