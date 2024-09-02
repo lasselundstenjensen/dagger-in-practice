@@ -89,6 +89,10 @@ go run main.go
 
 You should see something that is not an error >D
 
+```text
+Hello, World!
+```
+
 </br>
 </br>
 </br>
