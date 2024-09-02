@@ -6,7 +6,7 @@ title: "Stuff to install"
 
 We will be using **Visual Studio Code** (VSCode) as our editor, and we will be **using the terminal to run our code**. We also need **Go** and extensions for VSCode to make our lives easier.
 
-Later on we will be using **Docker** and **Dagger**, but install instructions for those follow in later sections and are not necessary for now.
+Additionally, we will be using **Docker** and **Dagger**.
 
 </br>
 </br>
@@ -57,7 +57,7 @@ This will install several tool integrations in VSCode and most importantly the G
 </br>
 </br>
 
-## Let's see if it works
+### <i class="fa-solid fa-rocket"></i> Let's see if it works <i class="fa-solid fa-rocket"></i>
 
 Hello World in Go!
 
@@ -94,6 +94,10 @@ Hello, World!
 ```
 
 </br>
+
+You are now ready to start using Go!
+
+</br>
 </br>
 </br>
 </br>
@@ -111,7 +115,7 @@ brew install dagger
 </br>
 </br>
 
-## Let's see if it works
+### <i class="fa-solid fa-rocket"></i> Let's see if it works <i class="fa-solid fa-rocket"></i>
 
 Run:
 
