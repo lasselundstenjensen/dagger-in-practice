@@ -51,11 +51,12 @@ jobs:
           cache: false
 
       - name: Run Dagger pipeline
-        uses: dagger/dagger-for-github@v5
+        uses: dagger/dagger-for-github@v6
         with:
+          workdir: go
           verb: run
           args: go run pipeline.go
-          version: "0.12.5"
+          version: "0.12.7"
 ```
 
 </br>
