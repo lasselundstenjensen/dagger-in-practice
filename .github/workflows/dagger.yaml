@@ -25,5 +25,5 @@ jobs:
         uses: dagger/dagger-for-github@v5
         with:
           verb: run
-          args: go run pipeline.go
+          args: go run -C go pipeline.go
           version: "0.12.5"
