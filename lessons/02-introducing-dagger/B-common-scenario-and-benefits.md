@@ -67,7 +67,7 @@ Dagger currently offers SDKs for the following languages:
 </br>
 </br>
 
-## Supported platforms
+## Supported operating systems
 
 Dagger runs on the following platforms:
 
@@ -84,5 +84,14 @@ Dagger runs on the following platforms:
 </br>
 </br>
 </br>
+</br>
+</br>
+
+## Supported platforms
+
+</br>
+
+![Dagger platforms](../../images/supported-ci-cd-platforms.png)
+
 </br>
 </br>
