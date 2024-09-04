@@ -61,7 +61,7 @@ jobs:
 
 </br>
 
-This workflow runs on every push to the `main` branch and when manually triggered.
+This [workflow](https://github.com/lasselundstenjensen/dagger-in-practice/blob/main/.github/workflows/dagger.yaml) runs on every push to the `main` branch and when manually triggered.
 
 It uses the `dagger/dagger-for-github` action to run the pipeline.
 
