@@ -1,0 +1,9 @@
+order,sectionTitle,lessonTitle,slug,sectionIcon,filePath,description
+01A,Getting Started,What to expect,getting-started/what-to-expect,info-circle,/lessons/getting-started/what-to-expect,""
+01B,Getting Started,Stuff to install,getting-started/stuff-to-install,info-circle,/lessons/getting-started/stuff-to-install,""
+02A,Introducing Dagger,What is Dagger?,introducing-dagger/what-is-dagger,code,/lessons/introducing-dagger/what-is-dagger,""
+02B,Introducing Dagger,The common scenario and Dagger benefits,introducing-dagger/common-scenario-and-benefits,code,/lessons/introducing-dagger/common-scenario-and-benefits,""
+02C,Introducing Dagger,Typical Dagger pipeline structure,introducing-dagger/typical-structure,code,/lessons/introducing-dagger/typical-structure,""
+03A,Creating and running a Dagger pipeline,New Dagger pipeline,creating-and-running-a-dagger-pipeline/new-dagger-pipeline,code,/lessons/creating-and-running-a-dagger-pipeline/new-dagger-pipeline,""
+03B,Creating and running a Dagger pipeline,Running a Dagger pipeline locally,creating-and-running-a-dagger-pipeline/run-dagger-pipeline-locally,code,/lessons/creating-and-running-a-dagger-pipeline/run-dagger-pipeline-locally,""
+04A,Embedding in a GitHub Workflow,Running Dagger in a GitHub Actions workflow,embedding-in-a-github-workflow/running-workflows,code,/lessons/embedding-in-a-github-workflow/running-workflows,""
